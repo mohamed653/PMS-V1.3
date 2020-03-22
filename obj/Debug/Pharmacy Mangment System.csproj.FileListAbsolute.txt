@@ -1,0 +1,21 @@
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\bin\Debug\Pharmacy Mangment System.exe.config
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\bin\Debug\Pharmacy Mangment System.exe
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\bin\Debug\Pharmacy Mangment System.pdb
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Properties.Resources.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.csproj.GenerateResource.cache
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.csproj.CoreCompileInputs.cache
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.exe
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.pdb
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.csprojAssemblyReference.cache
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Main_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Login_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Bills_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Medicine_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Notification_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Report_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Signup_Form.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.MainViewForm.resources
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\bin\Debug\Guna.UI.dll
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\bin\Debug\Guna.UI.pdb
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy Mangment System.csproj.CopyComplete
+C:\Users\CZ\source\repos\Pharmacy Mangment System\Pharmacy Mangment System\obj\Debug\Pharmacy_Mangment_System.Setting_Form.resources
